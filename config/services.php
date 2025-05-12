@@ -13,6 +13,7 @@ return [
     | a conventional file to locate the various service credentials.
     |
     */
+    'stateful' => ['localhost', '127.0.0.1', 'localhost:5175'],
 
     'postmark' => [
         'token' => env('POSTMARK_TOKEN'),

@@ -30,4 +30,6 @@ class User extends Authenticatable
         // Uncomment if Laravel 10+ and want auto password hashing
         // 'password' => 'hashed',
     ];
+
+
 }
